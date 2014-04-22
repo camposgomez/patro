@@ -96,7 +96,7 @@
                 <footer id="pie">
 			<small>Derechos Reservados &copy; 2014 </small>
 			<address>
-				<a href=”http://www.loquesea.com”>Carlos Campos & Jose Dussan</a>
+				<a href=”http://www.loquesea.com”>Carlos Campos & Felipe Ruiz</a>
 			</address>
 		</footer>
 	</div>
