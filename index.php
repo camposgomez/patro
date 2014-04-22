@@ -15,7 +15,7 @@
 		</header>
 		<nav id="menu">
 			<ul>
-				<li><A href="index.php">Principal</A></li>
+				<li><A href="index.php">Principals</A></li>
 				<li><A href="registrouser.php" >Registrese</A></li>
 			</ul>
 		</nav>
