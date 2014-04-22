@@ -21,7 +21,7 @@ require_once 'php/conexion.php';
 				<li><A href="indexlog.php" >Principal</A></li>
 			
 				<li><A href="cargar.php" >Administraci&oacute;n</A></li>
-				<li><A href="contactenos.php" >Contact</A></li>
+				<li><A href="contactenos.php" >Contacte</A></li>
 			</ul>
 		</nav>
 		<section id="seccion">
