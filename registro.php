@@ -14,7 +14,7 @@ require_once 'php/conexion.php';
 <body>
 	<div id="agrupar">
 		<header id="cabecera">
-			Loquesea.com		
+			Loquesea.com	
 		</header>
 		<nav id="menu">
 			<ul>
