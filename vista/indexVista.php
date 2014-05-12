@@ -36,6 +36,7 @@ public $Diccionario;
             $aux=str_ireplace("{descripcion}", $valor['descripcion'], $aux);
             $aux=str_ireplace("{contacto}", $valor['contacto'], $aux);
             $aux=str_ireplace("{valor}", $valor['valor'], $aux);
+            $aux=str_ireplace("{imagen}", $valor['imagen'], $aux);
             $total_art.=$aux;
                 
         }
