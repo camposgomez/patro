@@ -7,6 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Loquesea.com</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link href="css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -33,7 +34,17 @@
 	</div>
     <div class="container">
     	<div class="col-md-9">
-
+            <h1>Contactenos</h1>
+            <article id="registro">
+            <form method="POST" action="registracontacto.php"> 	
+                <p><label>Asunto:&nbsp;&nbsp;</label> <input class="textbox" type="text" name="asunto" class="cajas" />  </p>
+                    <p><label>Nombre:&nbsp;</label> <input class="textbox" type="text" name="nombre" class="cajas" />  </p>
+                    <p><label>E-mail:&nbsp;&nbsp;&nbsp;</label> <input class="textbox" type="email" name="email" class="cajas" />  </p>
+                    <p><label>Telefono:&nbsp;</label> <input class="textbox" type="tel" name="telefono" class="cajas" />  </p>
+                    <p><label>Detalle:&nbsp&nbsp&nbsp</label> <input class="textbox" type="text" name="detalle" class="cajas"/> </p>
+                    <button type="submit" class="btn">Enviar</button>
+            </form>
+            </article>
     	</div>
     	<div class="col-md-3">
 	        <div class="list-group" >
@@ -56,5 +67,6 @@
             </div>
         </footer>
     </div>
+    <script src="js/bootstrap.js"></script> 
 </body>
 </html>

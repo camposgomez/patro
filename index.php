@@ -7,6 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>Loquesea.com</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link href="css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -78,5 +79,6 @@
             </div>
         </footer>
     </div>
+    <script src="js/bootstrap.js"></script> 
 </body>
 </html>
